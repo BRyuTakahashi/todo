@@ -42,6 +42,7 @@ export function PageComponents() {
                 </div>
                 <div>
                     <ButtonIcon icon={TrashIcon} />
+                    <ButtonIcon icon={TrashIcon} variant='primary' />
                     <ButtonIcon icon={TrashIcon} variant='secondary' />
                     <ButtonIcon icon={TrashIcon} variant='tertiary' />
                     <ButtonIcon icon={TrashIcon} loading />
